@@ -67,10 +67,15 @@ Currently involved in the deployment of a machine learning based scoring platfor
 ### Programming Languages
 
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
 https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+
 https://img.shields.io/badge/Assembly-525252?style=for-the-badge
+
 https://img.shields.io/badge/SystemVerilog-E60000?style=for-the-badge
+
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 https://img.shields.io/badge/SQL-336791?style=for-the-badge
 
 ---
@@ -78,9 +83,13 @@ https://img.shields.io/badge/SQL-336791?style=for-the-badge
 ### Embedded Systems
 
 https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge
+
 https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white
+
 https://img.shields.io/badge/UART-00599C?style=for-the-badge
+
 https://img.shields.io/badge/SPI-00599C?style=for-the-badge
+
 https://img.shields.io/badge/I2C-00599C?style=for-the-badge
 
 ---
@@ -88,15 +97,20 @@ https://img.shields.io/badge/I2C-00599C?style=for-the-badge
 ### Data Science & Machine Learning
 
 https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+
 https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+
 https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+
 
 ---
 
 ### Engineering Tools
 
 https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
 https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
 
 ---
