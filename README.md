@@ -29,7 +29,7 @@ My background combines hardware, software, communications, and data-driven probl
 ## 🔬 Professional Experience
 
 ### 🇦🇶 Scientific Technician
-**Belgrano II Antarctic Base (2024)**
+**Belgrano II Antarctic Base (2024 - 2025)**
 
 Worked as Scientific Technician supporting research activities in Antarctica.
 
@@ -43,7 +43,7 @@ Main responsibilities:
 
 ---
 
-### ⚡ Data Analytics & Fraud Detection
+### ⚡ Data Analytics & Machine learning (Fraud Detection)
 **EPEC (2025 - Present)**
 
 Currently working on data analysis and machine learning initiatives focused on improving fraud detection effectiveness.
